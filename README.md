@@ -1,1 +1,1 @@
-# proximus-demo
+# sample-apps
